@@ -1,4 +1,4 @@
-# IPv64 Client
+# Node64.io Client
 
 ![alt text](/files/images/ipv64_darkmode.svg#gh-dark-mode-only "Logo")
 ![alt text](/files/images/ipv64_lightmode.svg#gh-light-mode-only "Logo")
